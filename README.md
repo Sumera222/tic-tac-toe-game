@@ -1,7 +1,4 @@
-# Tic-Tac-Toe -(Game App) 
-
-## What does this app do?
-- This is a contacts list app in which news have been fetched thru an API.
+# Tic-Tac-Toe (Game App) 
 
 ## I have used following technologies:
 - HTML, CSS, JavaScript, npm, react, Bootstrap (for coding and implementation on UI)
@@ -14,8 +11,8 @@
 
 ## How to run this app?
 - To run this app, click live github website link given below.
-OR
-- open live server version of index.html in your browser.
+
+- open live server version ot run npm start on your terminal for local host.
 
 ## Repo Link:
 https://github.com/sumera222/tic-tac-toe
